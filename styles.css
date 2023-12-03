@@ -151,6 +151,7 @@ p {
 @media (max-width: 1300px) {
   #history-section p {
     top: 55%;
+    font-size: 20px;
   }
 
   #main {
